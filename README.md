@@ -5,7 +5,7 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-Suportada versão 3 de Python (feito com Python 3.9)
+Suportada versão 3 de Python (Feito com Python 3.9)
 
 Tópicos a serem abordados:
  1. Git
