@@ -1,4 +1,3 @@
-# Fazendo teste com branch Teste
 name: libpythonproEriko-CI
 on:
   push:
