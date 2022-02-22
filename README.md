@@ -1,5 +1,5 @@
 # libpythonpro
-teste para upstream como main do repositorio pessoal
+ok
 
 Módulo para exemplificar construção de projetos Python no curso Pytools.
 
