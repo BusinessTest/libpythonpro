@@ -1,5 +1,4 @@
 # libpythonpro
-branch main
 
 Módulo para exemplificar construção de projetos Python no curso Pytools.
 
