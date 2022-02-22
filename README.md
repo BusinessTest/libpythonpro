@@ -1,5 +1,5 @@
 # libpythonpro
-as
+branch ramo de upstram
 
 Módulo para exemplificar construção de projetos Python no curso Pytools.
 
