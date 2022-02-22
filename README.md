@@ -1,5 +1,5 @@
 # libpythonpro
-teste para upstream
+teste para origin
 
 Módulo para exemplificar construção de projetos Python no curso Pytools.
 
