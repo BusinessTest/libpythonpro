@@ -15,10 +15,3 @@ def buscar_avatar(usuario):
 
 if __name__ == '__main__':
     print(buscar_avatar('erikosampaio'))
-
-
-lista = [1, 2, 3, 4]
-print(lista)
-
-
-print(lista)
