@@ -43,7 +43,7 @@ def find_package_data(
     will).
     Directories matching any pattern in ``exclude_directories`` will
     be ignored; by default directories with leading ``.``, ``CVS``,
-    and ``_darcs`` will be ignored.
+    and ``_darcs`` will be ignored.'
     If ``show_ignored`` is true, then all the files that aren"t
     included in package data are shown on stderr (for debugging
     purposes).
