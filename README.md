@@ -8,6 +8,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Updates](https://pyup.io/repos/github/BusinessTest/libpythonpro/shield.svg)](https://pyup.io/repos/github/BusinessTest/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/BusinessTest/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/BusinessTest/libpythonpro/)
+[![codecov](https://codecov.io/gh/BusinessTest/libpythonpro/branch/main/graph/badge.svg?token=9RSMB8OJS3)](https://codecov.io/gh/BusinessTest/libpythonpro)
 
 Suportada versão 3 de Python (Feito com Python 3.9)
 
