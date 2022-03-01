@@ -26,7 +26,5 @@ jobs:
     - name: Test with Pytest
       run: pytest libpythonpro --cov=libpythonpro
     - name: Relatório Codecov
-      env:
-        CODECOV_TOKEN: 'b6260251-028a-4128-a234-07cf0586020c'
       run: |
         codecov
