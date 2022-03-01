@@ -9,13 +9,13 @@ def test_salvar_usuarios():
     conexao.fechar()
 
 
-def test_listar'_usuarios():
+def test_listar_usuarios():
     conexao = Conexao()
     sessao = conexao.gerar_sessao()
     usuarios = [Usuario(nome='Eriko'), Usuario(nome='Nayara')]
     for usuario in usuarios:
         sessao.salvar(usuario)
-    assert usuarios == sessao.listas()
+    assert usuarios == sessao.listar()
     sessao.roll_back()
     sessao.fechar()
     conexao.fechar()
