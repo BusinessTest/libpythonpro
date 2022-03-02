@@ -26,5 +26,4 @@ jobs:
     - name: Test with Pytest
       run: pytest libpythonpro --cov=libpythonpro
     - name: Relatório Codecov
-      run: |
-        codecov
+      run: codecov
