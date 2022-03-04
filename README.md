@@ -12,7 +12,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 Suportada versão 3 de Python (Feito com Python 3.9)
 
-Para instalar: 
+Para instalar:
 ```console
 python -3 -m venv .venv
 .venv\Scripts\activate
